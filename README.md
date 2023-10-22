@@ -18,4 +18,4 @@ Project 2 : ====Calculator===
 Languages used:Html,css,Javascript
 link:https://irsascalculator.netlify.app/
 ==Description==
-Calulator is made using html,css nd javascript.It included multiple features e.g addition,subtraction,multiplication.
+Calculator is made using html,css nd javascript.It included multiple features e.g addition,subtraction,multiplication.
